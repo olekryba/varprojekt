@@ -9,3 +9,4 @@ Idag fortsatta jag med sitemappen. Jag definerade också call to astions för al
 Jag undersökte vilka typsnitt fom fungerar på hemsidan. 
 Jag kollade på vilka widgets vi kan använda på hemsidan. 
 Jag bestämde att vi ska ha länkar till sociala medier på hemsidan men att vi inte ska skapa några konton. 
+Allt antecknades i word-dokumentet  https://stenungsundskommun-my.sharepoint.com/:w:/r/personal/aleksander_rybarczyk06_skola_stenungsund_se/Documents/webbutveckling/varprojekt/webbutveckling_varprojekt.docx?d=w82c389b84354426cb38c7051e9141a94&csf=1&web=1&e=fRWddF
