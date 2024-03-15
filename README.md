@@ -10,3 +10,6 @@ Jag undersökte vilka typsnitt fom fungerar på hemsidan.
 Jag kollade på vilka widgets vi kan använda på hemsidan. 
 Jag bestämde att vi ska ha länkar till sociala medier på hemsidan men att vi inte ska skapa några konton. 
 Allt antecknades i word-dokumentet  https://stenungsundskommun-my.sharepoint.com/:w:/r/personal/aleksander_rybarczyk06_skola_stenungsund_se/Documents/webbutveckling/varprojekt/webbutveckling_varprojekt.docx?d=w82c389b84354426cb38c7051e9141a94&csf=1&web=1&e=fRWddF
+
+<h2>Vecka 11</h2>
+Idag skapade jag en katalogstruktur https://stenungsundskommun-my.sharepoint.com/:f:/g/personal/aleksander_rybarczyk06_skola_stenungsund_se/EkYdC5P_ljRCsRTW-vqc3GEBu7Mpl_V4kq3vbEK39kGcYA?e=N8fQd1. 
