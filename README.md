@@ -13,3 +13,6 @@ Allt antecknades i word-dokumentet  https://stenungsundskommun-my.sharepoint.com
 
 <h2>Vecka 11</h2>
 Idag skapade jag en katalogstruktur (https://stenungsundskommun-my.sharepoint.com/:f:/g/personal/aleksander_rybarczyk06_skola_stenungsund_se/EkYdC5P_ljRCsRTW-vqc3GEBu7Mpl_V4kq3vbEK39kGcYA?e=N8fQd1) samt länkade in alla kataloger i sitemapen för att de ska vara enkla att hitta. 
+
+<h2>Vecka 12</h2>
+Idag började jag skriva i <a href="https://google.com"> HTML dokumentet.
