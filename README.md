@@ -16,4 +16,4 @@ Idag skapade jag en katalogstruktur (https://stenungsundskommun-my.sharepoint.co
 
 <h2>Vecka 12</h2>
 Idag började jag skriva i <a href="https://stenungsundskommun-my.sharepoint.com/personal/aleksander_rybarczyk06_skola_stenungsund_se/_layouts/15/onedrive.aspx?csf=1&web=1&e=Zpa0oj&cid=95ce3ee7%2D9dab%2D462a%2Dbdcf%2Dec8f466fff11&FolderCTID=0x0120007A3F9E8FC3D17A4A871E1483F6FE81C0&id=%2Fpersonal%2Faleksander%5Frybarczyk06%5Fskola%5Fstenungsund%5Fse%2FDocuments%2Fwebbutveckling%2Fvarprojekt%2FHTML%2FHomepage%2FHomepage%5Fkod&view=0" target="_blank"> HTML dokumentet</a>, jag gjorde även ikoner som i inkscape som ska användas på hemsidan. <br> Katalogstrukturen var tvungen att ändras för att underlätta med att länka ihop HTML dokumenten. <br>
-Jag installerade också ett analyticz verktyg samt en live chatt plug in. Efterssom båda grejerna använder cookies skapade jag också en coockie banner som poppar upp när man går in på hemsidan. 
+Jag installerade också ett analytics verktyg samt en live chatt plug in. Efterssom båda grejerna använder cookies skapade jag också en coockie banner som poppar upp när man går in på hemsidan. 
