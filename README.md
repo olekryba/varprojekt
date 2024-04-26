@@ -23,3 +23,6 @@ Iadg gjorde jag klart HTML för strtsidan, vi listade också ut hur man delar et
 
 <h2>Vecka 16</h2>
 Idag gjorde vi klart HTML på många undersidor. Jag gjorde kontakt, offert och tack sidan. CSS är klar endast på tack sidan och där finns även en liten easter egg ;). 
+
+<h2>Vecka 17</h2>
+Idag gjorde jag <a href="https://stenungsundskommun-my.sharepoint.com/:f:/r/personal/aleksander_rybarczyk06_skola_stenungsund_se/Documents/webbutveckling/varprojekt/HTML/logga_in?csf=1&web=1&e=2JCcVr" target="blank"> logga in  sidan</a>, både HTML och CSS. Jag kollade även på designer som vi kan använda till 404 sidan och hjälpte en teammedlem med att redigera en bild som ska användas på den sidan. Vi märkte att logga in sidan tyvärr inte kommer fungera då vi inte har tillräcliga kunskaper för att göra detta, däremot kommer det finnas en easter egg. 
