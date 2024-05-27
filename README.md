@@ -26,3 +26,12 @@ Idag gjorde vi klart HTML på många undersidor. Jag gjorde kontakt, offert och 
 
 <h2>Vecka 17</h2>
 Idag gjorde jag <a href="https://stenungsundskommun-my.sharepoint.com/:f:/r/personal/aleksander_rybarczyk06_skola_stenungsund_se/Documents/webbutveckling/varprojekt/HTML/logga_in?csf=1&web=1&e=2JCcVr" target="blank"> logga in  sidan</a>, både HTML och CSS. Jag kollade även på designer som vi kan använda till 404 sidan och hjälpte en teammedlem med att redigera en bild som ska användas på den sidan. Vi märkte att logga in sidan tyvärr inte kommer fungera då vi inte har tillräcliga kunskaper för att göra detta, däremot kommer det finnas en easter egg. 
+
+<h2>Vecka 18</h2>
+Vi fick reda på att man MÅSTE använda bootstrap. Hela sidan var i princip klar och vi var tvugna att göra om allt. Vi har använt css men man skulle använda bootstrap. Detta är ett stort problem med tanke på den begränsade tiden somm finns kvar. Vi börjar med att göra om allt direkt. 
+
+<h2>Vecka 20</h2>
+Vi fortsätter med att göra om all css till bootstrap. 
+
+<h2>Vecka 21</h2>
+Vi fortsätter med att göra om css till bootstrap. Jag publicerade också sidan <a href="circumspice.se">. Vi är nästan klara, finns lite småsaker kvar som kan göras på nästa lektion innan presentationen. 
