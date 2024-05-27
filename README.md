@@ -34,4 +34,4 @@ Vi fick reda på att man MÅSTE använda bootstrap. Hela sidan var i princip kla
 Vi fortsätter med att göra om all css till bootstrap. 
 
 <h2>Vecka 21</h2>
-Vi fortsätter med att göra om css till bootstrap. Jag publicerade också <a href="circumspice.se" sidan> på  Vi är nästan klara, finns lite småsaker kvar som kan göras på nästa lektion innan presentationen. 
+Vi fortsätter med att göra om css till bootstrap. Jag publicerade också <a href="circumspice.se"> sidan </a>. Vi är nästan klara, finns lite småsaker kvar som kan göras på nästa lektion innan presentationen. 
